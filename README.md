@@ -1,0 +1,2 @@
+# 25MCA20033_SWC_DBMS
+swc
